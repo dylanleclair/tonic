@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="images/tonic_cropped.png" width="150" height="auto" marginLeft="20px"/>
+  <img src="images/tonic_cropped.png" width="120" height="auto" marginLeft="20px"/>
 
   <h1>tonic: a simple and refreshing game framework</h1>
 
