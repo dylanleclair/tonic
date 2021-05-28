@@ -12,6 +12,12 @@
 - **Unidirectional data flow**: as much as possible, data flows in one direction down the tree of components in a scene. 
 - **Easy to use**, tonic works with various tools to help you make games faster. 
 
+# Dependencies
+- Built off of OpenGL
+- Uses GLFW as a window manager
+- Uses GLM for math
+- GLEW
+
 # Work with tonic
 
 tonic is developed using Visual Studio, and can be opened from the .sln file in the root directory!
