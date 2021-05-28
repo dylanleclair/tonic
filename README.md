@@ -5,7 +5,7 @@
 
   <h1>tonic: a simple and refreshing game framework</h1>
 
-  My first deep dive into engine design, tonic aims to be a lightning fast backbone for 2D games. It aims to be easy to use, providing out of the box support for collision detection, debugging, atlas and tilesheet support, sprite and sprite animations, and much more! 
+  My first deep dive into engine design, tonic aims to be a lightning fast backbone for 2D games. It aims to be easy to use, providing out of the box support for collision detection, debugging, atlas and tilesheet support, sprites, animations, and much more! 
 </div>
 
 # Highlights
